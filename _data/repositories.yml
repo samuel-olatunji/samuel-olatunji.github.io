@@ -1,10 +1,8 @@
 github_users:
   - samuel-olatunji
-  - alshedivat
-
 
 repo_description_lines_max: 2
 
 github_repos:
-- cs50-projects
+- samuel-olatunji/cs50-projects
 
