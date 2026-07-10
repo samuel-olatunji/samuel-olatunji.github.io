@@ -4,11 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - cs50-projects
-  - samuel-olatunji
-  - my-coding-projects
-  
   - samuel-olatunji/cs50-projects
-  - m50/samuel-olatunji
   - samuel-olatunji/my-coding-projects
   - code50/87231735
