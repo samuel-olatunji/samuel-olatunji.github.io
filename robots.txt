@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://olatunjisamuell.github.io/sitemap.xml
+Sitemap: https://samuel-olatunji.github.io/sitemap.xml
